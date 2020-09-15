@@ -1,0 +1,107 @@
+D:\QueeMVC\QueeMVC\bin\QueeMVC.dll
+D:\QueeMVC\QueeMVC\bin\QueeMVC.pdb
+D:\QueeMVC\QueeMVC\bin\Antlr3.Runtime.dll
+D:\QueeMVC\QueeMVC\bin\EntityFramework.dll
+D:\QueeMVC\QueeMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\QueeMVC\QueeMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\QueeMVC\QueeMVC\bin\Newtonsoft.Json.dll
+D:\QueeMVC\QueeMVC\bin\System.Net.Http.Formatting.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.Http.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.Http.WebHost.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.Mvc.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.Optimization.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.Providers.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.Razor.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.WebPages.Deployment.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.WebPages.dll
+D:\QueeMVC\QueeMVC\bin\System.Web.WebPages.Razor.dll
+D:\QueeMVC\QueeMVC\bin\WebGrease.dll
+D:\QueeMVC\QueeMVC\bin\EntityFramework.xml
+D:\QueeMVC\QueeMVC\bin\Newtonsoft.Json.xml
+D:\QueeMVC\QueeMVC\bin\System.Net.Http.Formatting.xml
+D:\QueeMVC\QueeMVC\bin\System.Web.Http.xml
+D:\QueeMVC\QueeMVC\bin\System.Web.Http.WebHost.xml
+D:\QueeMVC\QueeMVC\bin\System.Web.Mvc.xml
+D:\QueeMVC\QueeMVC\bin\System.Web.Razor.xml
+D:\QueeMVC\QueeMVC\bin\System.Web.WebPages.xml
+D:\QueeMVC\QueeMVC\bin\System.Web.WebPages.Deployment.xml
+D:\QueeMVC\QueeMVC\bin\System.Web.WebPages.Razor.xml
+D:\QueeMVC\QueeMVC\obj\Debug\QueeMVC.csprojResolveAssemblyReference.cache
+D:\QueeMVC\QueeMVC\obj\Debug\QueeMVC.dll
+D:\QueeMVC\QueeMVC\obj\Debug\QueeMVC.pdb
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\QueeMVC.dll.config
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\QueeMVC.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\QueeMVC.pdb
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\PagedList.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\WebGrease.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\PagedList.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\obj\Debug\QueeMVC.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\obj\Debug\QueeMVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\obj\Debug\QueeMVC.csproj.CopyComplete
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\obj\Debug\QueeMVC.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\QueeMVC\QueeMVC\obj\Debug\QueeMVC.pdb
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\QueeMVC.dll.config
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\QueeMVC.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\QueeMVC.pdb
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\PagedList.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\WebGrease.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\PagedList.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\obj\Debug\QueeMVC.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\obj\Debug\QueeMVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\obj\Debug\QueeMVC.csproj.CopyComplete
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\obj\Debug\QueeMVC.dll
+C:\Users\Admin\Desktop\DoAn CNWeb\Đồ án web mỹ phẩm 02 12 2019\QueeMVC\QueeMVC\obj\Debug\QueeMVC.pdb
